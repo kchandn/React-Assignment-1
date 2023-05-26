@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Button from "./Button";
+import Button from "./Components/Button";
 
 function App() {
   return <Button buttonName="Show live alert" />;
