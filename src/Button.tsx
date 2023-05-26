@@ -10,7 +10,7 @@ const Button = (props: Props) => {
       type="button"
       className="btn btn-primary"
       id="liveAlertBtn"
-      onClick={() => console.log("Button clicked")}
+      onClick={() => console.log("Button clicked!")}
     >
       {props.buttonName}
     </button>
